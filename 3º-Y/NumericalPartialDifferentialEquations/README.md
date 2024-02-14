@@ -1,5 +1,8 @@
-This subject covers the following topics:
-  - Finite Difference Schemes
-  - Finite Elements Schemes
+The subject aim is to solve partial differential equations numerically and covers the following topics:
+  - Finite Elements Methods
+  - Finite Difference Methods:
+      Euler, Taylor, Runge-Kutta, Adams-Moulton, Adams-Bashforth,Self Adjoint, Lines methods,
 
-The subject aim is to solve partial differential equations numerically.
+      Cranck-Nicolson, Discrete Fourier Transform, Lax-Friedrichs, Leap-Frog,       
+
+      UpWind,Lax-Wendroff, Richtmyer, MacCormack
