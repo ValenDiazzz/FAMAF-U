@@ -1,4 +1,4 @@
-This subject covers the following topics:
+This course covers the following topics:
 
 - Least Squares
 - Non-Linear Equations
