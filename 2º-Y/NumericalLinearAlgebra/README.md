@@ -1,4 +1,4 @@
-This subject covers the following topics:
+This course covers the following topics:
 
 - Numerical Linear System Solutions
 - SVD
