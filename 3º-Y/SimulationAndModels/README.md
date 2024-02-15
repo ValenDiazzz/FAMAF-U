@@ -1,4 +1,4 @@
-The subject covers the following topics:
+The course covers the following topics:
 
 - Monte Carlo Method
 - Statistical Analysis of Simulated Data
