@@ -1,1 +1,1 @@
-This subject covers DBM with MySQL
+This course covers DBM with MySQL
