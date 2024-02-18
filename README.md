@@ -2,7 +2,7 @@
 This repository contains programming scripts used in university courses. It includes exercises, projects, and practical assignments developed as part of the curriculum in my degree program (Applied Mathematics). 
 It includes lenguages such as Python, C/C++ and SQL.
 
-The courses involded are:
+The courses involvded are:
 
 - Data Bases
 - Algorithms and Data Structures
