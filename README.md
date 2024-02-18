@@ -4,10 +4,11 @@ It includes lenguages such as Python, C/C++ and SQL.
 
 The courses are:
 
-- Algorithms and Programming
-- Numerical Calculus
-- Numerical Linear Algebra
-- Algorithms and Data Structures
 - Data Bases
-- Numerical Partial Differential Equations
+- Algorithms and Data Structures
+- Quantitative Finance
 - Simulation and Models
+- Numerical Linear Algebra
+- Numerical Calculus
+- Algorithms and Programming
+- Numerical Partial Differential Equations
