@@ -2,7 +2,7 @@ The course aim is to solve partial differential equations numerically and covers
   - Finite Elements Methods
   - Finite Difference Methods such as:
 
-      Euler, Taylor, Runge-Kutta, Adams-Moulton, Adams-Bashforth,Self Adjoint, Lines methods,
+      Euler, Taylor, Runge-Kutta, Adams-Moulton, Adams-Bashforth, Self Adjoint, Lines methods,
 
       Cranck-Nicolson, Discrete Fourier Transform, Lax-Friedrichs, Leap-Frog,       
 
