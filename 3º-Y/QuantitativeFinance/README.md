@@ -2,9 +2,9 @@ This is the final assignment of the course. The aim of this project is to compar
 
 Some of the topics of the course:
 
-- Financial instruments: Stocks, Indexes, Bonds.
-- Financial derivatives: Futures, Options, Forwards.
+- Financial instruments: Stocks, Indexes, Bonds
+- Financial derivatives: Futures, Options, Forwards
 - Black-Scholes Model
 - Brownian Motion
 - Discrete Options Price Model
-- Stochastic Calculus for Binomial Mode
+- Stochastic Calculus for the Binomial Model
